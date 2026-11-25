@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848604022623",
+    "project_id": "gestao-manicure-7ecea",
+    "storage_bucket": "gestao-manicure-7ecea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848604022623:android:5f12795b4499d5215a58ea",
+        "android_client_info": {
+          "package_name": "br.com.kamilansc.gestao_manicure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC27ndaVnU6iM_CfoC3nBtDz2AHq9fwg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
