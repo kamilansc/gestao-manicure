@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:gestao_manicure/views/agenda_page.dart';
+import 'package:gestao_manicure/views/home_page.dart';
 
 import 'firebase_options.dart';
 
@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(colorScheme: .fromSeed(seedColor: Colors.deepPurple)),
       debugShowCheckedModeBanner: false,
-      home: const AgendaPage(),
+      home: const HomePage(),
     );
   }
 }
